@@ -7,4 +7,4 @@ https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
 You can also download all the notebooks without the solution throguh this link:
 https://github.com/udacity/machine-learning
 
-It is all written in Python 3
+They are all written in Python 3
